@@ -24,7 +24,7 @@ You will find heat map that displays the humidity for every city and more.
 
 
 
-        ![](weatherpy/output_data/world_map.png)                     
+        ![](https://github.com/HaifaNajdawi/Python-API/blob/master/weatherPy/output_data/world_map.png?raw=true)                     
         credit for: https://www.shsu.edu/~dl_www/bkonline/131online/f02latitude/02index.htm
 
 
